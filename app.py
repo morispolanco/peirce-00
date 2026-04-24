@@ -29,7 +29,7 @@ modelo = st.sidebar.selectbox(
     [
         "openai/gpt-4o-mini",
         "openai/gpt-4o",
-        "anthropic/claude-3.5-sonnet",
+        "anthropic/claude-sonnet-4.6",
         "meta-llama/llama-3.1-70b-instruct"
     ]
 )
